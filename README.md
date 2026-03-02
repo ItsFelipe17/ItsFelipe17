@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Sobre mim neymar</h2>
+<h2 align="center">Sobre mim </h2>
 
 ###
 
